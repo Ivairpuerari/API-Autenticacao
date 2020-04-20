@@ -4,7 +4,7 @@
 
 ## Cada API deve ter mapeado o username e password em uma tabela relacional SQL. 
 
-## Tecnologias utilizadas no desenvolvimento: Java com Framework Spring.
+## Tecnologias utilizadas no desenvolvimento: Java com Spring Framework.
 
 ## Banco de dados PostgreSQL.
 
